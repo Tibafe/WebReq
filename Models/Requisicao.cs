@@ -26,10 +26,15 @@ namespace WebReq_V1.Models
         [Column("Quantidade")]
         public int Quantidade { get; set; }
 
+        [Display(Name = "Cliente")]
         public int ClienteId { get; set; }
         public virtual Cliente Clientes { get; set; }
+
+        [Display(Name = "Solicitante")]
         public int SolicitanteId { get; set; }
         public virtual Solicitante Solicitantes { get; set; }
+
+        [Display(Name = "Produto")]
         public int ProdutoId { get; set; }
         public virtual Produto Produtos { get; set; }
     }
