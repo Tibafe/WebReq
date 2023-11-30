@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = WebReq_V1
+build_property.RootNamespace = WebReq_V1
+build_property.ProjectDir = C:\Users\tibaf\OneDrive\Documentos\Faculdade\5B\Software Product Analysis, Specification, Projec\Central_de_Requisicao\WebReq_V1\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\tibaf\OneDrive\Documentos\Faculdade\5B\Software Product Analysis, Specification, Projec\Central_de_Requisicao\WebReq_V1
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Cliente/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Cliente/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Cliente/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Cliente/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Cliente/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Produto/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Produto/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Produto/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Produto/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Produto/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Requisicao/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaWNhb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Requisicao/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaWNhb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Requisicao/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaWNhb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Requisicao/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaWNhb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Requisicao/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWlzaWNhb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Shared/_Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Solicitante/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Solicitante/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Solicitante/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Solicitante/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Solicitante/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU29saWNpdGFudGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/tibaf/OneDrive/Documentos/Faculdade/5B/Software Product Analysis\, Specification\, Projec/Central_de_Requisicao/WebReq_V1/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-fafleh58ju

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebReq_V1.props" />
+</Project>
